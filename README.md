@@ -1,9 +1,9 @@
-# bypass-bruteforce
+# BYPASS-BRUTEFORCE
 BYPASS BRUTE FORCE Menggunakan python3
 
 
 
-Cara penggunaan :
+# Cara penggunaan :
 
 1.pkg install request
 
